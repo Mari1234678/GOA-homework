@@ -1,0 +1,8 @@
+print(10 + 17)
+print(14 + 5)
+print(3-1)
+print(2-3)
+print (6*4)
+print(3*2)
+print(7/ 1)
+print(1/4)
